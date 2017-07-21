@@ -23,6 +23,7 @@
     "page": "options.html",
     "chrome_style": true
   },
+  "background_script": "background.js",
   "author": "Pawan Rai",
     "permissions": [
     "tabs",
